@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: oneline-ml
+Version: 2.1.11
+Summary: fastai with few lines to complete AI
+Home-page: https://github.com/muratali016/Oneline_AI
+Author: Murat Ali Avcu & Dogan Keskin
+Author-email: murataliavcu1@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+## Oneline ML
+
